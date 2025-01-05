@@ -121,7 +121,7 @@ languageCheckbox.onclick = function() {
         game9.textContent = "9. Fortnite";
         game10.textContent = "10. Among Us";
         thanksTitle.textContent = "To wszystko, dziękuję!";
-        contactInfo.textContent = "Kontakt: temp@mail.com";
+        contactInfo.textContent = "Kontakt: oliwierszulcowy@gmail.com";
     } else {
         loginTitle.textContent = "Login";
         loginUser.placeholder = "Username";
