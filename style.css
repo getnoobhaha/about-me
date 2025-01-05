@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(243, 234, 223);
+    font-family: 'Arial', sans-serif;
+    min-height: 700vh
+}
+
+
+
+#loginform{
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fafafa;
+    border-radius: 5px;
+}
+#loginUser{
+    width: 75%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#passwordBox{
+    width: 75%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#submit{
+    width: 83%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+p{
+    font-size: 14px;
+}
+#registerbtn{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+#intro{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+}
